@@ -9,10 +9,15 @@ A new Flutter deep-linking project.
 
 ### Get started
 Step 1: Fork the repository
+
 Step 2: Clone the forked repository
+
 Step 3: Open the project in VSC
+
 Step 4: Run ```flutter pub get``` in the terminal to get all the dependencies
+
 Step 5: Select your Android device to run the project on
+
 Step 6: Run the project
 
 

@@ -35,9 +35,9 @@ Web domain in use: https://welaaps.tech/
 The web domain contains the same routes as the application.
 
 ### Steps taken to achieve deep-linking
-- [ ] Generated the keystore file with all the necessary fingerprints 
-- [ ] Modified the AndroidManifest.xml file to enable deep-linking
-- [ ] Have hosted the assetlinks.json file to the url at the following path -> https://welaaps.tech/.well-known/assetlinks.josn
+- [x] Generated the keystore file with all the necessary fingerprints 
+- [x] Modified the AndroidManifest.xml file to enable deep-linking
+- [x] Have hosted the assetlinks.json file to the url at the following path -> https://welaaps.tech/.well-known/assetlinks.josn
 
 ### Issue being faced
 - After completing the entire process when I run the application on the emulator for the first time and then use the following adb command to test

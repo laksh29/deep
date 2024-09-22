@@ -41,10 +41,10 @@ The web domain contains the same routes as the application.
 
 ### Issue being faced
 - After completing the entire process when I run the application on the emulator for the first time and then use the following adb command to test
-``` adb shell 'am start -a android.intent.action.VIEW \
+```adb shell 'am start -a android.intent.action.VIEW \
     -c android.intent.category.BROWSABLE \
     -d "http://welaaps.tech/details"' \
-    com.example.deep ```
+    com.example.deep```
 
 The application opens at the ```details``` route.
 

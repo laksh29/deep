@@ -36,7 +36,9 @@ The web domain contains the same routes as the application.
 
 ### Steps taken to achieve deep-linking
 [ ] Generated the keystore file with all the necessary fingerprints 
+
 [ ] Modified the AndroidManifest.xml file to enable deep-linking
+
 [ ] Have hosted the assetlinks.json file to the url at the following path -> https://welaaps.tech/.well-known/assetlinks.josn
 
 ### Issue being faced

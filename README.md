@@ -49,7 +49,7 @@ The application opens at the ```details``` route.
 - I did verify whether the assetlinks.json has been hosted correctly using https://developers.google.com/digital-asset-links/tools/generator, and the test passed.
 
 - But when I try debugging the project using the dev-tools it constantly gives me the following errors:
-[ ] Digital Asset Links JSON file related issues
-[ ] Hosting related issues
+- [ ] Digital Asset Links JSON file related issues
+- [ ] Hosting related issues
 
   
